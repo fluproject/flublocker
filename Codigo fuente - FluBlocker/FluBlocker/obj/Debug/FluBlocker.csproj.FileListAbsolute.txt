@@ -1,0 +1,5 @@
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\bin\Debug\FluBlocker.dll
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\bin\Debug\FluBlocker.pdb
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\obj\Debug\FluBlocker.dll
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\obj\Debug\FluBlocker.pdb

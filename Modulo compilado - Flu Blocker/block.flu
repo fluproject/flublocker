@@ -1,0 +1,20 @@
+﻿#USO DEL FICHERO DE CONFIGURACION
+#********************************
+
+#El sistema ignora las lineas vacias y las lineas que comiencen por el caracter #, que seran tomadas como comentarios
+#El sistema utiliza el simbolo * al comienzo de una linea para posicionar los distintos bloques del fichero, por lo que no se pueden eliminar
+#Para agregar nuevos bloques de texto, agregarlos en la lista inmeditamente despues de la correspondiente cabecera
+
+#IIS bloqueara las conexiones realizadas por las IPs incluidas en el siguiente listado
+* BLOCKED IP
+
+#IIS bloqueara las conexiones realizadas por las maquinas cuyo USER-AGENT contenga la siguiente expresion
+* BLOCKED USER-AGENT
+
+#IIS bloqueara las conexiones realizadas por los siguientes metodos
+* BLOCKED METHOD
+
+#IIS bloqueara las conexiones cuyo origen provenga de los siguientes puertos
+* BLOCKED PORT
+
+* END

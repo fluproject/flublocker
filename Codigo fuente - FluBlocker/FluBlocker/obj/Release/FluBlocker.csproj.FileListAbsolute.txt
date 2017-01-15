@@ -1,0 +1,10 @@
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\bin\Release\FluBlocker.dll
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\bin\Release\FluBlocker.pdb
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\obj\Release\FluBlocker.dll
+C:\Users\jcallesg\Documents\Visual Studio 2008\Projects\FluBlocker\FluBlocker\obj\Release\FluBlocker.pdb
+C:\Users\jcallesg\Desktop\FluBlocker+FW TERMINADO\FluBlocker\bin\Release\FluBlocker.dll
+C:\Users\jcallesg\Desktop\FluBlocker+FW TERMINADO\FluBlocker\bin\Release\FluBlocker.pdb
+C:\Users\jcallesg\Desktop\FluBlocker+FW TERMINADO\FluBlocker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jcallesg\Desktop\FluBlocker+FW TERMINADO\FluBlocker\obj\Release\FluBlocker.dll
+C:\Users\jcallesg\Desktop\FluBlocker+FW TERMINADO\FluBlocker\obj\Release\FluBlocker.pdb
